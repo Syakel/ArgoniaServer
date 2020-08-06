@@ -1,0 +1,13 @@
+C:\Users\robert\source\repos\Argonia\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\robert\source\repos\Argonia\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\robert\source\repos\Argonia\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\robert\source\repos\Argonia\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\robert\source\repos\Argonia\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\robert\source\repos\Argonia\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\robert\source\repos\Argonia\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\robert\source\repos\Argonia\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\robert\source\repos\Argonia\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\robert\source\repos\Argonia\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\robert\source\repos\Argonia\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\robert\source\repos\Argonia\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\robert\source\repos\Argonia\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
